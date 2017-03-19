@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "DFChart"
-  s.version      = "0.0.1"
+  s.version      = "0.0.2"
   s.summary      = "simple chart in swift for iOS by Diego Caridei and Fabio Nisci"
 
   # This description is used to generate tags and improve search results.
@@ -82,7 +82,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "https://github.com/DiegoCaridei/DFChart.git", :tag => "0.0.1" }
+  s.source       = { :git => "https://github.com/DiegoCaridei/DFChart.git", :tag => "0.0.2" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
