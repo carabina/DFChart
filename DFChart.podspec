@@ -26,6 +26,8 @@ Pod::Spec.new do |s|
   #   * Finally, don't worry about the indent, CocoaPods strips it!
   s.description  = <<-DESC
   simple chart in swift for iOS by Diego Caridei and Fabio Nisci
+
+  just install with "pod \"DFChart\""
                    DESC
 
   s.homepage     = "https://github.com/DiegoCaridei/DFChart"
